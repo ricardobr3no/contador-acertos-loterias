@@ -1,0 +1,7 @@
+certifi==2024.8.30
+chardet==4.0.0
+idna==2.10
+loteria-caixa==0.0.5
+PySimpleGUI-4-foss==4.60.4.1
+requests==2.25.1
+urllib3==1.26.20
